@@ -35,8 +35,10 @@ body{
 .logo-space img{
     width:80px;
     height:max(100px);
+    margin: auto;
 }
-.logo-space p{
+.logo-space span{
+    width:60%;
     font-size: 7rem;
     font-family: Norse-Bold;
     color:aliceblue;
